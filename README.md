@@ -36,7 +36,8 @@ I am a First Year AI Engineering Student.
 ## How to Run
 1. Install Python.
 2. Download or clone this repository.
-3. Run any Python file.
+3. Run any Python file
+   
 Student Management System
 
 A Python-based Student Management System developed as part of my AI Engineering learning journey.
